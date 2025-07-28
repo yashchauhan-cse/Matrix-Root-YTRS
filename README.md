@@ -1,7 +1,7 @@
 # Matrix-Root-YTRS
 A C program to compute square roots of 2*2 real matrices using my own YTRS method
 
-p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/yashchauhan-cse/Matrix-Root-YTRS/main/assets/matrix.png" width="200" alt="YTRS Matrix Logo"/>
 </p>
 
