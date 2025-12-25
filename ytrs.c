@@ -126,8 +126,6 @@ int main() {
         return 0;
     }
 // }
-
-    printf("\n====================================\n");
     printf("  Execution Complete\n");
     printf("  Press ENTER to close the program...");
     getchar(); getchar();
@@ -146,3 +144,4 @@ int main() {
     //     break;
 
     //  }
+
