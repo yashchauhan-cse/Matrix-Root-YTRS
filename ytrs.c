@@ -127,10 +127,6 @@ int main() {
     }
 // }
 
-    printf("====================================================\n");
-    printf("        Powered by YTRS | Developed by Yash\n");
-    printf("====================================================\n\n");
-
     printf("\n====================================\n");
     printf("  Execution Complete\n");
     printf("  Press ENTER to close the program...");
@@ -148,4 +144,5 @@ int main() {
     //  else if(choice=='N' || choice=='n')
     //  {
     //     break;
+
     //  }
