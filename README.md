@@ -116,7 +116,7 @@ Matrix-Toolkit	A matrix calculator handling inverse, power, eigen, CHT, etc.
 👤 Credits & About
 
 > 💡 Created with passion and brain sparks by Yash Chauhan
-👨‍💻 Engineering Student • Math Hacker • Code Philosopher
+👨‍💻 Engineering Student • Math • Code 
 📧 Reach me: coming soon...
 
 
@@ -130,4 +130,3 @@ If you liked this or used this in college flex — please consider:
 
 ⭐️ Giving a star to this repo
 🔁 Sharing with your coder friends
-🧠 Mentioning "YTRS" next time someone says matrix roots aren't possible
